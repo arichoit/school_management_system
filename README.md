@@ -41,7 +41,7 @@ A Laravel-based School Management System.
 
 ## Testing
 
-Run php artisan test.
+Run php artisan test sample.
 
 ## Author
 
